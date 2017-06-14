@@ -17,7 +17,20 @@
 ### Consoleの実行ログ
 
 ```
-【ここに書く】
+4.2
+sum(2,5);
+3
+undefined
+
+4.3
+sum(1,10);
+55
+undefined
+
+4.4
+sum(1);
+55
+undefined
 ```
 
 ### Console以外の動き（もしあれば）
